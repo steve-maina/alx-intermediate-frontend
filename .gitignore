@@ -1,3 +1,5 @@
 .vscode/
 0x02-tailwind-css/node_modules/
 0x03-sass_scss/node_modules/
+0x04-TypeScript/task_0/dist
+0x04-TypeScript/task_0/node_modules
